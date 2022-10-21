@@ -1,4 +1,5 @@
 ﻿
+//Найти синус числа по формуле Тейлора
 #include <iostream>
 #include <iomanip>
 #include <cmath>
